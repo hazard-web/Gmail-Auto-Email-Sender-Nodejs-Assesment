@@ -1,1 +1,0 @@
-# Gmail-Auto-Email-Sender-Nodejs-Assesment
